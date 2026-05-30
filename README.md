@@ -65,6 +65,6 @@ To improve data quality and analytical depth, AI-assisted enrichment was perform
 * Predictive performance modeling
 * Advanced bowling phase analysis (Powerplay, Middle Overs, Death Overs)
 
-## Screen Shot:
+## Screenshot:
 ![IPL Bowlers Performance Dashboard](https://raw.githubusercontent.com/shamanth-11/IPL-Bowlers-Dash-Board/main/IPL%20Bowlers%20Stats.png)
 
