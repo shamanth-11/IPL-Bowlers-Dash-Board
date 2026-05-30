@@ -64,3 +64,8 @@ To improve data quality and analytical depth, AI-assisted enrichment was perform
 * Venue-adjusted bowling performance metrics
 * Predictive performance modeling
 * Advanced bowling phase analysis (Powerplay, Middle Overs, Death Overs)
+
+
+## ScreenShot
+
+
